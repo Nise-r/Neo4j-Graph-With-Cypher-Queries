@@ -16,8 +16,14 @@ It also includes examples of **Cypher queries**, **data import**, and **Python-b
 
 ---
 ## 🖼️ Visualization Screenshots
-
+**Relation: User-[Tag]->Movie**
 ![Graph Overview](./images/1.png)
+**Relation: Movie->Genre**
+![Graph Overview](./images/2.png)
+**Relation: User-[Tagged]->Movie**
+![Graph Overview](./images/3.png)
+**Relation: User-[Rated]->Movie**
+![Graph Overview](./images/4.png)
 
 ---
 
